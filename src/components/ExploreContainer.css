@@ -3,6 +3,7 @@
   position: absolute;
   left: 0;
   right: 0;
+  background-color: #eee;
   top: 50%;
   transform: translateY(-50%);
 }
