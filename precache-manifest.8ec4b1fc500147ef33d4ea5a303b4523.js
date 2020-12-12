@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "11659870f5ae890a4f86592948c344a5",
+    "revision": "e51761a0f109a99496fdb8225351d1be",
     "url": "/travel-app/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/travel-app/static/css/4.3614eac3.chunk.css"
   },
   {
-    "revision": "95391325a8c7f565c4d7",
-    "url": "/travel-app/static/css/main.e2de7b19.chunk.css"
+    "revision": "033ac216589615b0e0cc",
+    "url": "/travel-app/static/css/main.c92252da.chunk.css"
   },
   {
     "revision": "12914e93b1412406f105",
@@ -248,7 +248,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/travel-app/static/js/9.5834d2d9.chunk.js"
   },
   {
-    "revision": "95391325a8c7f565c4d7",
+    "revision": "033ac216589615b0e0cc",
     "url": "/travel-app/static/js/main.7ed94ffd.chunk.js"
   },
   {
